@@ -1,0 +1,20 @@
+32 Columns and 1470 Rows 
+
+27 columns cha analysiswith attrition and without attrition
+
+What is attrition?
+Employee attrition is the naturally occurring, voluntary departure if employees from a company. Employee attrition involves leaving a job for: personal reasons, professional motivation, job mismatch.
+
+EDA meaning?
+Exploratory data analysis is used by data scientists to analyze and investigate data set and summarize their main characteristics, often employing data visualization methos.
+
+Statistical data analysis meaning?
+Statistical analysis is the process of collection and analyzing large volumes of data in order to identify trends and develop valuable insights.
+Statistical analysts take raw data and find correlations between variables to reveal patterns and trends to relevant stakeholder.
+
+
+
+
+
+
+
